@@ -5,9 +5,9 @@
 
 ## 自己紹介
 
-Tomoaki Masuda
-@fab[fa-twitter] @tomo_makes
-@fab[fa-github] tomo-makes
+- Tomoaki Masuda
+- @fab[twitter] @tomo_makes
+- @fab[github] tomo-makes
 
 ---
 
