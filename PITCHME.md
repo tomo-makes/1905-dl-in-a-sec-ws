@@ -10,6 +10,48 @@
 
 ---
 
+# 全体像
+
+![](images/1_8_1_map_all.png)
+
+---
+
+![](images/1_2_1_map1_bw.png)
+
+---
+
+![](images/1_3_0_why_what_how_of_ml.png)
+
+---
+
+![](images/1_3_1_whatの分野と概要.png)
+
+---
+
+![](images/1_3_2_howの概要.png)
+
+---
+
+![](images/1_3_3_howの概要2.png)
+
+---
+
+![](images/1_4_1_情報収集の視点.png)
+
+---
+
+![](images/1_5_1_機械学習のながれ.png)
+
+---
+
+![](images/1_6_1_アーキテクチャ.png)
+
+---
+
+![](images/1_7_1_graphics_codes_math_ml.png)
+
+---
+
 ## 「知る・わかる」から「できる」へのロードマップ
 
 ---
