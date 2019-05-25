@@ -6,7 +6,7 @@
 
 ---
 
-![](./mages/1_1_1_pict_yamap.png)
+![](images/1_1_1_pict_yamap.png)
 
 ---
 
