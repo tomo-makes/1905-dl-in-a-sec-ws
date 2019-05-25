@@ -126,6 +126,7 @@ McKinseyのAI事例・考察レポート
 ## Constructionism
 
 ---
+<<<<<<< HEAD
 
 ## 構築主義
 
@@ -150,6 +151,32 @@ McKinseyのAI事例・考察レポート
 @quote[子供に野球を教える時、ボールの縫い目のデザイン、物性科学からは教えませんよね。フィールドに連れていき、「ほら、ボールを投げるから打ってみて」「ほら、一塁へ向かって走るんだ。それが野球だよ」とやるでしょう。深層学習も同じです。](Jeremy Howard)
 @snapend
 
+=======
+
+## 構築主義
+
+---
+
+## is 何？
+
+---
+
+@snap[north-east span-20]
+@quote[構築主義](Seymour Papert)
+@snapend
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/67/Seymour_Papert.png)
+
+---
+
+
+---
+
+@snap[north-east span-20]
+@quote[子供に野球を教える時、ボールの縫い目のデザイン、物性科学からは教えませんよね。フィールドに連れていき、「ほら、ボールを投げるから打ってみて」「ほら、一塁へ向かって走るんだ。それが野球だよ」とやるでしょう。深層学習も同じです。](Jeremy Howard)
+@snapend
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jeremy_Howard.jpg/461px-Jeremy_Howard.jpg)
 
 ---
@@ -188,6 +215,7 @@ McKinseyのAI事例・考察レポート
 今日のWebサービスでの機械学習活用。
 
 - [【KDD2018】論文『Customized Regression Model for Airbnb Dynamic Pricing』を読んでまとめた - 港区で苦しむデータサイエンティストのメモ帳](https://honawork.hatenablog.com/entry/2018/08/24/181947)
+<<<<<<< HEAD
 
 ---
 
@@ -207,6 +235,27 @@ McKinseyのAI事例・考察レポート
 
 ---
 
+=======
+
+---
+
+#### 金融取引、デジタル広告、効率化・体験向上
+
+お金に直結するデータ分析。
+
+---
+
+#### 具体的なできる・できないを知るには
+
+コンペ参加と、過去事例から「何ができるか」学ぶことのすすめ。
+
+- [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
+- [SIGNATE - Data Science Competition](https://signate.jp/)
+- [Kaggle Past Competitions](https://ndres.me/kaggle-past-solutions/)
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 #### 事例の紹介
 
 事例と達成された度合いを紹介します。
@@ -227,6 +276,7 @@ McKinseyのAI事例・考察レポート
 ---
 
 ### いろいろな画像認識
+<<<<<<< HEAD
 
 - カテゴリーレベル
 - インスタンスレベル
@@ -264,6 +314,45 @@ McKinseyのAI事例・考察レポート
 
 ---
 
+=======
+
+- カテゴリーレベル
+- インスタンスレベル
+
+---
+
+### ImageNet画像認識コンペでの躍進
+
+- [ImageNet Large Scale Visual Recognition Competition 2012 (ILSVRC2012)](http://www.image-net.org/challenges/LSVRC/2012/results.html)
+
+---
+
+### 物体認識はここまでできる
+
+![YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception - YouTube](https://www.youtube.com/embed/s8Ui_kV9dhw)
+
+---
+
+### MOVE MIRRORで遊ぼう！
+
+![AI Experiments: Move Mirror](https://www.youtube.com/embed/I18pLQNM9Yk)
+
+---
+
+### 骨格・体勢検出
+
+![DensePose](https://www.youtube.com/embed/Dhkd_bAwwMc)
+
+---
+
+### 特定物体認識
+
+- インスタンスレベル
+- 特定物体認識 [Google Landmark Recognition Challenge | Kaggle](https://www.kaggle.com/c/landmark-recognition-challenge/)
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 ### 画像／映像系
 #### 生成: AIの描き出すもの
 
@@ -384,6 +473,7 @@ McKinseyのAI事例・考察レポート
 ---
 
 ### Snapchat filters
+<<<<<<< HEAD
 
 ---
 
@@ -401,6 +491,25 @@ McKinseyのAI事例・考察レポート
 
 ---
 
+=======
+
+---
+
+### TikTokとAI
+
+
+---
+
+### 解釈性の話
+
+- 機械学習・深層学習の活用と共に、解釈性の研究が脚光を浴びている。
+- 解釈できず精度がとても高い、よりは、精度を犠牲にしても解釈性があるほうが使いやすい。
+	- [Activation Atlas](https://distill.pub/2019/activation-atlas/)
+	- :octocat: [tensorflow/lucid: A collection of infrastructure and tools for research in neural network interpretability.](https://github.com/tensorflow/lucid)
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 ### 文章／言語系
 #### 言葉を操るAI
 
@@ -429,9 +538,15 @@ fine-tuningで扱うことができる。
 
 ### 音声／音楽系
 #### AIが聴き・話し・演奏するもの
+<<<<<<< HEAD
 
 ---
 
+=======
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 スマートスピーカに代表される音声認識・合成から、音楽の生成まで事例を取り上げます。
 
 ---
@@ -447,9 +562,38 @@ fine-tuningで扱うことができる。
 
 ---
 
+### AI DJ Project at Google I/O 2019 preshow
+
+- Nao Tokui氏
+
+![](https://www.youtube.com/embed/OWbXo6f57zI)
+
+---
+
+### VJ powered by pix2pix
+
+- Keijiro Takahashi氏
+
+![](https://camo.qiitausercontent.com/9c78700890cf8eb8d4a91d5667b306b81c23fd44/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36393036302f62316364653766382d303735302d393336342d396464332d6664616536623734633866642e676966)
+
+> 出典: [深層学習を勉強してリアルタイム映像表現に使ってみた話 - Qiita](https://qiita.com/keijiro/items/8874c5730feaf80b7943)
+
+---
+
+### VJ powered by pix2pix
+
+- Keijiro Takahashi氏
+
+![](https://camo.qiitausercontent.com/e0321d4a6a66b09928256f2330179d021284a602/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36393036302f63323763376666652d396261392d336536332d666435662d3166663061306330623465382e676966)
+
+> 出典: [深層学習を勉強してリアルタイム映像表現に使ってみた話 - Qiita](https://qiita.com/keijiro/items/8874c5730feaf80b7943)
+
+---
+
 - [Magenta](https://magenta.tensorflow.org/)
 - [AI Experiments | Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 - [ISMIR 2018](http://ismir2018.ircam.fr/)
+
 
 
 ---
@@ -706,11 +850,29 @@ Atariゲーム、碁、最近では多人数プレイのリアルタイム戦略
 
 ---
 
+@quote[○○というAIで、病気に診断が飛躍的に進歩することが期待されます。](一般ニュース)
+
+---
+
+@quote[○○モデルで、画像診断の正解率がx%まで向上しました。](技術ニュース)
+
+---
+
+@quote[○○の新規手法で○○を達成、○○の課題は残る。](論文)
+
+---
+
+@quote[GitHubに公開される実行可能なコード、データセット](実装と再現)
+
+---
+
+### 様々な抽象度と情報
+
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/f3c53bbe-bc5f-2b94-4b84-82fdd17b0a03.png)
 
 ---
 
-### 新しい情報を取り入れるには
+### 新しい知識とは何か
 
 - [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 
@@ -737,6 +899,13 @@ Atariゲーム、碁、最近では多人数プレイのリアルタイム戦略
 - [News & Blog | DeepMind](https://deepmind.com/blog/)
 - [私のブックマーク – 人工知能学会 ](https://www.ai-gakkai.or.jp/resource/my-bookmark/)
 - :bar_chart: [AHC-Lab M1勉強会 論文の読み方・書き方](https://www.slideshare.net/ShinagawaSeitaro/ahclab-m1)
+
+---
+
+### Twitterの威力
+
+
+
 
 ---
 ### 学会、勉強会、発表会などの1年
@@ -779,22 +948,35 @@ Atariゲーム、碁、最近では多人数プレイのリアルタイム戦略
 
 ---
 
-![Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
-![How to Win a Data Science Competition: Learn from Top Kagglers | Coursera](https://www.coursera.org/learn/competitive-data-science)
-![Stanford Artificial Intelligence Resource Hub](http://onlinehub.stanford.edu/)
-	![CS224n: Natural Language Processing with Deep Learning](http://onlinehub.stanford.edu/cs224)
-	![CS230: Deep Learning](http://onlinehub.stanford.edu/cs230)
-	![CS234: Reinforcement Learning](http://onlinehub.stanford.edu/cs234)
-![Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+### オンライン講座の威力
+
+英語が必要だが、USの大学の最新講義動画を無料で視聴できる。
+
+- [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
+- [How to Win a Data Science Competition: Learn from Top Kagglers | Coursera](https://www.coursera.org/learn/competitive-data-science)
+- [Stanford Artificial Intelligence Resource Hub](http://onlinehub.stanford.edu/)
+	- [CS224n: Natural Language Processing with Deep Learning](http://onlinehub.stanford.edu/cs224)
+	- [CS230: Deep Learning](http://onlinehub.stanford.edu/cs230)
+	- [CS234: Reinforcement Learning](http://onlinehub.stanford.edu/cs234)
+- [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+---
+
+### オンライン講座の威力
+
+日本の大学も一部公開している。
+
 
 ---
 
 ### 英語情報をうまく活用するには
 
-鮮度の高い英語情報の活用には割り切りも必要。機械翻訳の活用について。
+鮮度の高い英語情報の活用には割り切りも必要。
 
-- arXiv論文のWebページ化(とWeb翻訳) :bookmark: [arXiv Vanity – Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
-- Jupyterノートブックの翻訳 :octocat: [Translating Jupyter notebook using Google Translate](https://gist.github.com/tomo-makes/4fa9cf1e136d7bfa6f6c94a8a3afd864)
+- arXiv論文のWebページ化(とWeb翻訳)
+	- :bookmark: [arXiv Vanity – Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
+- Jupyterノートブックの翻訳
+	- :octocat: [Translating Jupyter notebook using Google Translate](https://gist.github.com/tomo-makes/4fa9cf1e136d7bfa6f6c94a8a3afd864)
 
 
 ---
