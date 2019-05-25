@@ -6,6 +6,52 @@
 
 ---
 
+![](images/1_1_1_pict_yamap.png)
+
+---
+
+# 全体像
+
+![](images/1_8_1_map_all.png)
+
+---
+
+![](images/1_2_1_map1_bw.png)
+
+---
+
+![](images/1_3_0_why_what_how_of_ml.png)
+
+---
+
+![](images/1_3_1_what_of_ml.png)
+
+---
+
+![](images/1_3_2_how_of_ml.png)
+
+---
+
+![](images/1_3_3_how_of_ml2.png)
+
+---
+
+![](images/1_4_1_catching_up_ml.png)
+
+---
+
+![](images/1_5_1_workflows_of_ml.png)
+
+---
+
+![](images/1_6_1_arch_of_ml.png)
+
+---
+
+![](images/1_7_1_graphics_codes_math_ml.png)
+
+---
+
 ## 「知る・わかる」から「できる」へのロードマップ
 
 ---
