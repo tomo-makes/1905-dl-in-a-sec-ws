@@ -126,7 +126,7 @@ McKinseyのAI事例・考察レポート
 ## Constructionism
 
 ---
-<<<<<<< HEAD
+
 
 ## 構築主義
 
@@ -144,39 +144,10 @@ McKinseyのAI事例・考察レポート
 
 ---
 
-
----
-
 @snap[north-east span-20]
 @quote[子供に野球を教える時、ボールの縫い目のデザイン、物性科学からは教えませんよね。フィールドに連れていき、「ほら、ボールを投げるから打ってみて」「ほら、一塁へ向かって走るんだ。それが野球だよ」とやるでしょう。深層学習も同じです。](Jeremy Howard)
 @snapend
 
-=======
-
-## 構築主義
-
----
-
-## is 何？
-
----
-
-@snap[north-east span-20]
-@quote[構築主義](Seymour Papert)
-@snapend
-
-![](https://upload.wikimedia.org/wikipedia/commons/6/67/Seymour_Papert.png)
-
----
-
-
----
-
-@snap[north-east span-20]
-@quote[子供に野球を教える時、ボールの縫い目のデザイン、物性科学からは教えませんよね。フィールドに連れていき、「ほら、ボールを投げるから打ってみて」「ほら、一塁へ向かって走るんだ。それが野球だよ」とやるでしょう。深層学習も同じです。](Jeremy Howard)
-@snapend
-
->>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jeremy_Howard.jpg/461px-Jeremy_Howard.jpg)
 
 ---
@@ -215,7 +186,7 @@ McKinseyのAI事例・考察レポート
 今日のWebサービスでの機械学習活用。
 
 - [【KDD2018】論文『Customized Regression Model for Airbnb Dynamic Pricing』を読んでまとめた - 港区で苦しむデータサイエンティストのメモ帳](https://honawork.hatenablog.com/entry/2018/08/24/181947)
-<<<<<<< HEAD
+
 
 ---
 
@@ -255,7 +226,6 @@ McKinseyのAI事例・考察レポート
 
 ---
 
->>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 #### 事例の紹介
 
 事例と達成された度合いを紹介します。
