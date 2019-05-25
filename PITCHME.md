@@ -6,29 +6,34 @@
 
 ---
 
-## 1.1 「知る・わかる」から「できる」へのロードマップ
+## 「知る・わかる」から「できる」へのロードマップ
 
-**機械学習・深層学習を学ぶみちすじ**
+---
 
-Jupyter Lab/ Colaboratoryなどの対話型環境、それをPaaS/ SaaSとして提供するサービス、チュートリアルが増えてきたので、まず「習うより慣れる」で取り組んで見ると良い、という図。
+### 機械学習・深層学習を学ぶみちすじ
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/169e2030-5602-05bd-dea9-650475d18cce.png)
 
 ---
 
-
 ### 「Why/What/How」 - 地図3: 適用分野と手法
-
-- ビジネス適用の事例
-    - :pencil: McKinseyのAI事例・考察レポート [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning) 
-- アート適用の事例
-    - [NIPS 2017 Art Gallery | Machine Learning for Creativity and Design](https://nips2017creativity.github.io/)
-    - [Art Gallery – NIPS Machine Learning for Creativity and Design](http://nips4creativity.com/)
-    - [Machine Learning for Artists](http://ml4a.github.io/ml4a/)
-    !: [Learning to see: Gloomy Sunday](https://vimeo.com/260612034)
 
 ---
 
+#### ビジネス適用の事例
+
+- :pencil: McKinseyのAI事例・考察レポート [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning) 
+
+---
+
+#### アート適用の事例
+
+- [NIPS 2017 Art Gallery | Machine Learning for Creativity and Design](https://nips2017creativity.github.io/)
+- [Art Gallery – NIPS Machine Learning for Creativity and Design](http://nips4creativity.com/)
+- [Machine Learning for Artists](http://ml4a.github.io/ml4a/)
+!: [Learning to see: Gloomy Sunday](https://vimeo.com/260612034)
+
+---
 
 ### 「必要な道具と実装」 - 地図6: システム、アーキテクチャと権利
 
@@ -37,15 +42,11 @@ https://www.slideshare.net/hironojumpei/ai-129527593)
 
 ---
 
-
-## 1.2 さまざまな分野と最先端の事例
-
-この節は、表形式・画像/映像・文章/言語・音声/音楽・その他の分野別、また認識・生成・行動といった種類別に追ってみる、事例のシャワーです。
+## さまざまな分野と最先端の事例
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/ab8b0c6a-8b78-eb7d-1d3f-6dcccfcf24a8.png)
 
 ---
-
 
 ### 各分野の広がりと最新状況を知る
 
@@ -53,8 +54,9 @@ https://www.slideshare.net/hironojumpei/ai-129527593)
 
 ---
 
-
 ### 数値・表形式 - 推論: データから、対象を予測する
+
+---
 
 表（テーブル）形式のデータを対象とした機械学習の概要、現状紹介。
 
@@ -66,23 +68,37 @@ https://www.slideshare.net/hironojumpei/ai-129527593)
 
 ---
 
-
 ### 画像／映像系 - 認識: AIの目にうつるもの
+
+---
 
 一般物体認識・特定物体認識の概要、現状紹介。
 
+---
+
+
 - ImageNet画像認識コンペでの深層学習の躍進 [ImageNet Large Scale Visual Recognition Competition 2012 (ILSVRC2012)](http://www.image-net.org/challenges/LSVRC/2012/results.html)
-- 物体検出の現状 :movie_camera: [YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception - YouTube](https://www.youtube.com/embed/s8Ui_kV9dhw)
+
+---
+
+- ! [YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception - YouTube](https://www.youtube.com/embed/s8Ui_kV9dhw)
+
+---
+
 - 骨格検出を使った楽しいデモ [AI Experiments: Move Mirror](https://experiments.withgoogle.com/collection/ai/move-mirror/view)
+
+---
+
 - 骨格検出 :pencil: :movie_camera: [DensePose](http://densepose.org/)
+
+---
+
 - 特定物体認識 [Google Landmark Recognition Challenge | Kaggle](https://www.kaggle.com/c/landmark-recognition-challenge/)
 
 ---
 
 
 ### 画像／映像系 - 生成: AIの描き出すもの
-
-GANなどの深層生成モデルの紹介。各デモムービーをざっと見るだけでも面白いです。
 
 ---
 
@@ -127,6 +143,9 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 ### 画像／映像系 - 認識と生成の間
 
+---
+
+
 深層生成モデルの持つ可能性、リスク、解釈性について。こちらも前半のビデオが興味深いです。後半に解釈性の説明があります。
 
 ---
@@ -161,11 +180,13 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 ---
 
-
-
 ### 文章／言語系 - 言葉を操るAI
 
+---
+
 代表的な対話ボットから、文章生成のデモまでを取り上げます。
+
+---
 
 - [Google Translate](https://translate.google.co.jp/)
 - [りんな](https://www.rinna.jp/)
@@ -180,7 +201,12 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 ### 音声／音楽系 -  AIが聴き・話し・演奏するもの
 
+---
+
 スマートスピーカに代表される音声認識・合成から、音楽の生成まで事例を取り上げます。
+
+
+---
 
 - :newspaper: [Googleアシスタントが音声通話で予約を取ってくれる――マンハッタンのレストランでDuplexのデモに参加してきた | TechCrunch Japan](https://jp.techcrunch.com/2018/06/28/2018-06-27-a-closer-look-at-google-duplex/)
 - :pencil: [A Neural Parametric Singing Synthesizer](https://mtg.github.io/singing-synthesis-demos/)
@@ -193,7 +219,7 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 ---
 
-- - [Magenta](https://magenta.tensorflow.org/)
+- [Magenta](https://magenta.tensorflow.org/)
 - [AI Experiments | Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 - [ISMIR 2018](http://ismir2018.ircam.fr/)
 
@@ -214,7 +240,12 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 ### グラフを扱う
 
+
+---
+
 数理的にグラフとして構造が表されるものはたくさんあります。グラフを扱った深層学習の現状について。
+
+---
 
 - :pencil: [機は熟した！グラフ構造に対するDeep Learning、Graph Convolutionのご紹介 - ABEJA Arts Blog](https://tech-blog.abeja.asia/entry/2017/04/27/105613)
 - :pencil: [Graph Convolutionを自然言語処理に応用する Part1 – programming-soda – Medium](https://medium.com/programming-soda/graph-convolution%E3%82%92%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%AB%E5%BF%9C%E7%94%A8%E3%81%99%E3%82%8B-part1-b792d53c4c18)
@@ -226,7 +257,12 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 ### その他の領域
 
+
+---
+
 ここまでの紹介に入らない、触覚、3次元モデルなどの深層学習事例について。
+
+---
 
 - :newspaper: [東大と日立の研究者、素材に触れた時の触振動を画像からそれっぽく生成し、効率的な触感デザインを可能とする手法「TactGAN」を発表 | Seamless](https://shiropen.com/seamless/tactgan)
 - :octocat: [timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
@@ -241,111 +277,17 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 ### 強化学習: 行動を学ぶAI
 
+---
+
 Atariゲーム、碁、最近では多人数プレイのリアルタイム戦略ゲームまで、強化学習の幅が広がりました。その事例について。
+
+---
 
 - :pencil: [Recurrent Experience Replay in Distributed Reinforcement Learning | OpenReview](https://openreview.net/forum?id=r1lyTjAqYX)
 - :pencil: [Google AI Blog: How Robots Can Acquire New Skills from Their Shared Experience](https://ai.googleblog.com/2016/10/how-robots-can-acquire-new-skills-from.html)
 - :bar_chart: [https://outreach.didichuxing.com/tutorial/AAAI2019/static/DRL with Applications in Transp_AAAI19tutorial.pdf](https://outreach.didichuxing.com/tutorial/AAAI2019/static/DRL%20with%20Applications%20in%20Transp_AAAI19tutorial.pdf)
 - :newspaper: [横河電機とNAISTが化学プラント向けに強化学習、少ない試行回数で高度な制御を実現 | 日経 xTECH（クロステック）](https://tech.nikkeibp.co.jp/atcl/nxt/mag/rob/18/012600001/00018/)
 
----
-
-
-
-## 最新の知見についていくために
-
-自分の追いたい抽象度を意識しながら、上のトレンドに終わらせず、継続して最新情報を追いかけてみます。その際のリソース・考え方紹介です。
-
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/f3c53bbe-bc5f-2b94-4b84-82fdd17b0a03.png)
-
----
-
-### 新しい情報を取り入れるには
-
-- [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
-
----
-
-### フォローすべきメディア
-
-日次、週次、四半期、年次と鮮度に応じてフォローすると良いメディアの紹介。特にWeekly Machine Learning, Rumors of MLのメールニュース2点はおすすめです。
-
-- :bookmark: [arXiv.org e-Print archive](https://arxiv.org/)
-- [Machine Learning - Reddit](https://www.reddit.com/r/MachineLearning/)
-- [Hacker News](https://news.ycombinator.com/)
-- [POSTD | プログラミングするエンジニアに向けたトレンドメディア](https://postd.cc/)
-- :mailbox: [Weekly Machine Learning - piqcy | Revue](https://www.getrevue.co/profile/icoxfog417/)
-- :mailbox: [Rumors of ML | Revue](https://www.getrevue.co/profile/hurutoriya)
-- [xpaper.challenge](http://xpaperchallenge.org/)
-    - [cvpaper.challenge](http://hirokatsukataoka.net/project/cc/index_cvpaperchallenge.html)
-    - :bar_chart: [CVPR 2018 完全読破チャレンジ](http://hirokatsukataoka.net/project/cc/cvpr2018survey.html)
-    - [nlpaper.challenge - 自然言語処理の国際会議「ACL」の完全読破 !](http://xpaperchallenge.org/nlp/)
-- [Distill — Latest articles about machine learning](https://distill.pub/)
-- [OpenAI Blog](https://openai.com/blog/)
-- [News & Blog | DeepMind](https://deepmind.com/blog/)
-- [私のブックマーク – 人工知能学会 ](https://www.ai-gakkai.or.jp/resource/my-bookmark/)
-- :bar_chart: [AHC-Lab M1勉強会 論文の読み方・書き方](https://www.slideshare.net/ShinagawaSeitaro/ahclab-m1)
-
----
-### 学会、勉強会、発表会などの1年
-
-歳時記。このGW明けから6月は、色々な発表が楽しみです。
-
-**機械学習系の学会**
-
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/b4d3fa03-482f-0740-fc84-bef9cc192744.png)
-
----
-
-**新製品発表・技術カンファレンス系**
-
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/6f91b682-42a3-5f70-1763-c23dfa4e67b6.png)
-
-- [ML, DM, and AI Conference Map](http://www.kamishima.net/archive/MLDMAImap.pdf)
-
----
-
-### 多様な講座と学びのアプローチ
-
-代表的なオンライン講座・動画を取り上げます。
-
-- [グローバル消費インテリジェンス寄附講座演習コンテンツ 公開ページ | 東京大学松尾研究室 - Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/gci_contents/)
-- :books: [東京大学のデータサイエンティスト育成講座 ~Pythonで手を動かして学ぶデ―タ分析~](https://amzn.to/2H5w8xB) - 上記の書籍化版
-- :books: [ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装](https://amzn.to/2V3hMmG)
-- :books: [ゼロから作るDeep Learning ❷ ―自然言語処理編](https://amzn.to/2V3igJw)
-- :books: [深層学習教科書 ディープラーニング G検定(ジェネラリスト) 公式テキスト](https://amzn.to/2JlYeYj)
-- :books: [機械学習スタートアップシリーズ Pythonで学ぶ強化学習 入門から実践まで](https://amzn.to/2LrDn8M)
-- :books: [機械学習スタートアップシリーズ ベイズ推論による機械学習入門](https://amzn.to/2JiAp3H)
-
-
----
-
-![予備校のノリで学ぶ「大学の数学・物理」 - YouTube](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
-
-
----
-
-![Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
-![How to Win a Data Science Competition: Learn from Top Kagglers | Coursera](https://www.coursera.org/learn/competitive-data-science)
-![Stanford Artificial Intelligence Resource Hub](http://onlinehub.stanford.edu/)
-	![CS224n: Natural Language Processing with Deep Learning](http://onlinehub.stanford.edu/cs224)
-	![CS230: Deep Learning](http://onlinehub.stanford.edu/cs230)
-	![CS234: Reinforcement Learning](http://onlinehub.stanford.edu/cs234)
-![Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-
----
-
-### 英語情報をうまく活用するには
-
-鮮度の高い英語情報の活用には割り切りも必要。機械翻訳の活用について。
-
-- arXiv論文のWebページ化(とWeb翻訳) :bookmark: [arXiv Vanity – Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
-- Jupyterノートブックの翻訳 :octocat: [Translating Jupyter notebook using Google Translate](https://gist.github.com/tomo-makes/4fa9cf1e136d7bfa6f6c94a8a3afd864)
-
-
----
-
-# 機械学習・深層学習の基礎を学ぼう
 
 ---
 
@@ -474,3 +416,107 @@ Atariゲーム、碁、最近では多人数プレイのリアルタイム戦略
 - [Machine Learning for Artists](http://ml4a.github.io/)
 
 ---
+
+
+
+## 最新の知見についていくために
+
+---
+
+
+自分の追いたい抽象度を意識しながら、上のトレンドに終わらせず、継続して最新情報を追いかけてみます。その際のリソース・考え方紹介です。
+
+---
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/f3c53bbe-bc5f-2b94-4b84-82fdd17b0a03.png)
+
+---
+
+### 新しい情報を取り入れるには
+
+- [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
+
+---
+
+### フォローすべきメディア
+
+日次、週次、四半期、年次と鮮度に応じてフォローすると良いメディアの紹介。特にWeekly Machine Learning, Rumors of MLのメールニュース2点はおすすめです。
+
+- :bookmark: [arXiv.org e-Print archive](https://arxiv.org/)
+- [Machine Learning - Reddit](https://www.reddit.com/r/MachineLearning/)
+- [Hacker News](https://news.ycombinator.com/)
+- [POSTD | プログラミングするエンジニアに向けたトレンドメディア](https://postd.cc/)
+- :mailbox: [Weekly Machine Learning - piqcy | Revue](https://www.getrevue.co/profile/icoxfog417/)
+- :mailbox: [Rumors of ML | Revue](https://www.getrevue.co/profile/hurutoriya)
+- [xpaper.challenge](http://xpaperchallenge.org/)
+    - [cvpaper.challenge](http://hirokatsukataoka.net/project/cc/index_cvpaperchallenge.html)
+    - :bar_chart: [CVPR 2018 完全読破チャレンジ](http://hirokatsukataoka.net/project/cc/cvpr2018survey.html)
+    - [nlpaper.challenge - 自然言語処理の国際会議「ACL」の完全読破 !](http://xpaperchallenge.org/nlp/)
+- [Distill — Latest articles about machine learning](https://distill.pub/)
+- [OpenAI Blog](https://openai.com/blog/)
+- [News & Blog | DeepMind](https://deepmind.com/blog/)
+- [私のブックマーク – 人工知能学会 ](https://www.ai-gakkai.or.jp/resource/my-bookmark/)
+- :bar_chart: [AHC-Lab M1勉強会 論文の読み方・書き方](https://www.slideshare.net/ShinagawaSeitaro/ahclab-m1)
+
+---
+### 学会、勉強会、発表会などの1年
+
+歳時記。このGW明けから6月は、色々な発表が楽しみです。
+
+---
+
+#### 機械学習系の学会
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/b4d3fa03-482f-0740-fc84-bef9cc192744.png)
+
+---
+
+#### 新製品発表・技術カンファレンス系
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/6f91b682-42a3-5f70-1763-c23dfa4e67b6.png)
+
+- [ML, DM, and AI Conference Map](http://www.kamishima.net/archive/MLDMAImap.pdf)
+
+---
+
+### 多様な講座と学びのアプローチ
+
+代表的なオンライン講座・動画を取り上げます。
+
+- [グローバル消費インテリジェンス寄附講座演習コンテンツ 公開ページ | 東京大学松尾研究室 - Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/gci_contents/)
+- :books: [東京大学のデータサイエンティスト育成講座 ~Pythonで手を動かして学ぶデ―タ分析~](https://amzn.to/2H5w8xB) - 上記の書籍化版
+- :books: [ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装](https://amzn.to/2V3hMmG)
+- :books: [ゼロから作るDeep Learning ❷ ―自然言語処理編](https://amzn.to/2V3igJw)
+- :books: [深層学習教科書 ディープラーニング G検定(ジェネラリスト) 公式テキスト](https://amzn.to/2JlYeYj)
+- :books: [機械学習スタートアップシリーズ Pythonで学ぶ強化学習 入門から実践まで](https://amzn.to/2LrDn8M)
+- :books: [機械学習スタートアップシリーズ ベイズ推論による機械学習入門](https://amzn.to/2JiAp3H)
+
+
+---
+
+![予備校のノリで学ぶ「大学の数学・物理」 - YouTube](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
+
+
+---
+
+![Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
+![How to Win a Data Science Competition: Learn from Top Kagglers | Coursera](https://www.coursera.org/learn/competitive-data-science)
+![Stanford Artificial Intelligence Resource Hub](http://onlinehub.stanford.edu/)
+	![CS224n: Natural Language Processing with Deep Learning](http://onlinehub.stanford.edu/cs224)
+	![CS230: Deep Learning](http://onlinehub.stanford.edu/cs230)
+	![CS234: Reinforcement Learning](http://onlinehub.stanford.edu/cs234)
+![Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+---
+
+### 英語情報をうまく活用するには
+
+鮮度の高い英語情報の活用には割り切りも必要。機械翻訳の活用について。
+
+- arXiv論文のWebページ化(とWeb翻訳) :bookmark: [arXiv Vanity – Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
+- Jupyterノートブックの翻訳 :octocat: [Translating Jupyter notebook using Google Translate](https://gist.github.com/tomo-makes/4fa9cf1e136d7bfa6f6c94a8a3afd864)
+
+
+---
+
+
