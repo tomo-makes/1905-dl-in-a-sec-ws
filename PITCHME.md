@@ -1,20 +1,42 @@
-# 秒速DEEP LEARNING
+# 山下り式！
+## でディープラーニングを学ぶ
 
 ---
 
-# 機械学習・深層学習を学ぶための地図を持とう
+## 自己紹介
+
+Tomoaki Masuda
+@fab[fa-twitter] @tomo_makes
+@fab[fa-github] tomo-makes
 
 ---
+
+## 機械学習・深層学習を学ぶための地図を持とう
+
+---
+
+### ねじ式！
+
+---
+
+間違えた。
+
+---
+
+
+### 山下り式！
 
 ![](images/1_1_1_pict_yamap.png)
 
 ---
 
-# 全体像
+### 全体像
 
 ![](images/1_8_1_map_all.png)
 
 ---
+
+### 「知る・わかる」から「できる」へのロードマップ
 
 ![](images/1_2_1_map1_bw.png)
 
@@ -52,23 +74,9 @@
 
 ---
 
-## 「知る・わかる」から「できる」へのロードマップ
-
----
-
-### 機械学習・深層学習を学ぶみちすじ
-
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/64608/169e2030-5602-05bd-dea9-650475d18cce.png)
-
----
-
-### 「Why/What/How」 - 地図3: 適用分野と手法
-
----
-
 #### ビジネス適用の事例
 
-- :pencil: McKinseyのAI事例・考察レポート [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning) 
+- :pencil: McKinseyのAI事例・考察レポート [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
 
 ---
 
@@ -564,5 +572,3 @@ Atariゲーム、碁、最近では多人数プレイのリアルタイム戦略
 
 
 ---
-
-
