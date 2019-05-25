@@ -5,13 +5,18 @@
 
 ## 自己紹介
 
-- Tomoaki Masuda
-- @fab[twitter] @tomo_makes
+- **Tomoaki Masuda**
+- @fab[twitter] tomo_makes
 - @fab[github] tomo-makes
 
 ---
 
-## 機械学習・深層学習を学ぶための地図を持とう
+## 書きました!
+
+- 2019年5月11日発売
+- Amazon コンピュータ・ITカテゴリ 新着1位獲得
+
+![](images/0_1_dl_in_a_sec_book.jpg)
 
 ---
 
@@ -30,6 +35,11 @@
 
 ---
 
+### 旅に出る前に...
+## 機械学習・深層学習を学ぶための地図を持とう
+
+---
+
 ### 全体像
 
 ![](images/1_8_1_map_all.png)
@@ -43,6 +53,22 @@
 ---
 
 ![](images/1_3_0_why_what_how_of_ml.png)
+
+---
+
+
+#### ビジネス適用の事例
+
+- :pencil: McKinseyのAI事例・考察レポート [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
+
+---
+
+#### アート適用の事例
+
+- [NIPS 2017 Art Gallery | Machine Learning for Creativity and Design](https://nips2017creativity.github.io/)
+- [Art Gallery – NIPS Machine Learning for Creativity and Design](http://nips4creativity.com/)
+- [Machine Learning for Artists](http://ml4a.github.io/ml4a/)
+!: [Learning to see: Gloomy Sunday](https://vimeo.com/260612034)
 
 ---
 
@@ -66,6 +92,8 @@
 
 ---
 
+### 「必要な道具と実装」 - 地図6: システム、アーキテクチャと権利
+
 ![](images/1_6_1_arch_of_ml.png)
 
 ---
@@ -74,25 +102,34 @@
 
 ---
 
-#### ビジネス適用の事例
-
-- :pencil: McKinseyのAI事例・考察レポート [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
+## Constructionism
 
 ---
 
-#### アート適用の事例
-
-- [NIPS 2017 Art Gallery | Machine Learning for Creativity and Design](https://nips2017creativity.github.io/)
-- [Art Gallery – NIPS Machine Learning for Creativity and Design](http://nips4creativity.com/)
-- [Machine Learning for Artists](http://ml4a.github.io/ml4a/)
-!: [Learning to see: Gloomy Sunday](https://vimeo.com/260612034)
+## 構築主義
 
 ---
 
-### 「必要な道具と実装」 - 地図6: システム、アーキテクチャと権利
+## is 何？
 
-- :bar_chart: AIをビジネスで扱う際知っておくべきこと [弁護士 柿沼太一氏『AI開発を円滑に進めるための契約・法務・知財』](
-https://www.slideshare.net/hironojumpei/ai-129527593)
+---
+
+@snap[north-east span-20]
+@quote[構築主義](Seymour Papert)
+@snapend
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/67/Seymour_Papert.png)
+
+---
+
+
+---
+
+@snap[north-east span-20]
+@quote[子供に野球を教える時、ボールの縫い目のデザイン、物性科学からは教えませんよね。フィールドに連れていき、「ほら、ボールを投げるから打ってみて」「ほら、一塁へ向かって走るんだ。それが野球だよ」とやるでしょう。深層学習も同じです。](Jeremy Howard)
+@snapend
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jeremy_Howard.jpg/461px-Jeremy_Howard.jpg)
 
 ---
 
