@@ -126,6 +126,7 @@ McKinseyのAI事例・考察レポート
 ## Constructionism
 
 ---
+<<<<<<< HEAD
 
 ## 構築主義
 
@@ -150,6 +151,32 @@ McKinseyのAI事例・考察レポート
 @quote[子供に野球を教える時、ボールの縫い目のデザイン、物性科学からは教えませんよね。フィールドに連れていき、「ほら、ボールを投げるから打ってみて」「ほら、一塁へ向かって走るんだ。それが野球だよ」とやるでしょう。深層学習も同じです。](Jeremy Howard)
 @snapend
 
+=======
+
+## 構築主義
+
+---
+
+## is 何？
+
+---
+
+@snap[north-east span-20]
+@quote[構築主義](Seymour Papert)
+@snapend
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/67/Seymour_Papert.png)
+
+---
+
+
+---
+
+@snap[north-east span-20]
+@quote[子供に野球を教える時、ボールの縫い目のデザイン、物性科学からは教えませんよね。フィールドに連れていき、「ほら、ボールを投げるから打ってみて」「ほら、一塁へ向かって走るんだ。それが野球だよ」とやるでしょう。深層学習も同じです。](Jeremy Howard)
+@snapend
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jeremy_Howard.jpg/461px-Jeremy_Howard.jpg)
 
 ---
@@ -188,6 +215,7 @@ McKinseyのAI事例・考察レポート
 今日のWebサービスでの機械学習活用。
 
 - [【KDD2018】論文『Customized Regression Model for Airbnb Dynamic Pricing』を読んでまとめた - 港区で苦しむデータサイエンティストのメモ帳](https://honawork.hatenablog.com/entry/2018/08/24/181947)
+<<<<<<< HEAD
 
 ---
 
@@ -207,6 +235,27 @@ McKinseyのAI事例・考察レポート
 
 ---
 
+=======
+
+---
+
+#### 金融取引、デジタル広告、効率化・体験向上
+
+お金に直結するデータ分析。
+
+---
+
+#### 具体的なできる・できないを知るには
+
+コンペ参加と、過去事例から「何ができるか」学ぶことのすすめ。
+
+- [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
+- [SIGNATE - Data Science Competition](https://signate.jp/)
+- [Kaggle Past Competitions](https://ndres.me/kaggle-past-solutions/)
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 #### 事例の紹介
 
 事例と達成された度合いを紹介します。
@@ -227,6 +276,7 @@ McKinseyのAI事例・考察レポート
 ---
 
 ### いろいろな画像認識
+<<<<<<< HEAD
 
 - カテゴリーレベル
 - インスタンスレベル
@@ -264,6 +314,45 @@ McKinseyのAI事例・考察レポート
 
 ---
 
+=======
+
+- カテゴリーレベル
+- インスタンスレベル
+
+---
+
+### ImageNet画像認識コンペでの躍進
+
+- [ImageNet Large Scale Visual Recognition Competition 2012 (ILSVRC2012)](http://www.image-net.org/challenges/LSVRC/2012/results.html)
+
+---
+
+### 物体認識はここまでできる
+
+![YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception - YouTube](https://www.youtube.com/embed/s8Ui_kV9dhw)
+
+---
+
+### MOVE MIRRORで遊ぼう！
+
+![AI Experiments: Move Mirror](https://www.youtube.com/embed/I18pLQNM9Yk)
+
+---
+
+### 骨格・体勢検出
+
+![DensePose](https://www.youtube.com/embed/Dhkd_bAwwMc)
+
+---
+
+### 特定物体認識
+
+- インスタンスレベル
+- 特定物体認識 [Google Landmark Recognition Challenge | Kaggle](https://www.kaggle.com/c/landmark-recognition-challenge/)
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 ### 画像／映像系
 #### 生成: AIの描き出すもの
 
@@ -384,6 +473,7 @@ McKinseyのAI事例・考察レポート
 ---
 
 ### Snapchat filters
+<<<<<<< HEAD
 
 ---
 
@@ -401,6 +491,25 @@ McKinseyのAI事例・考察レポート
 
 ---
 
+=======
+
+---
+
+### TikTokとAI
+
+
+---
+
+### 解釈性の話
+
+- 機械学習・深層学習の活用と共に、解釈性の研究が脚光を浴びている。
+- 解釈できず精度がとても高い、よりは、精度を犠牲にしても解釈性があるほうが使いやすい。
+	- [Activation Atlas](https://distill.pub/2019/activation-atlas/)
+	- :octocat: [tensorflow/lucid: A collection of infrastructure and tools for research in neural network interpretability.](https://github.com/tensorflow/lucid)
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 ### 文章／言語系
 #### 言葉を操るAI
 
@@ -429,9 +538,15 @@ fine-tuningで扱うことができる。
 
 ### 音声／音楽系
 #### AIが聴き・話し・演奏するもの
+<<<<<<< HEAD
 
 ---
 
+=======
+
+---
+
+>>>>>>> 3b310ffa700fc37534741d012b17314b074f8df2
 スマートスピーカに代表される音声認識・合成から、音楽の生成まで事例を取り上げます。
 
 ---
