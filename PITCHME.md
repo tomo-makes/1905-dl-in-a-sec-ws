@@ -25,7 +25,7 @@ Jupyter Lab/ Colaboratoryなどの対話型環境、それをPaaS/ SaaSとして
     - [NIPS 2017 Art Gallery | Machine Learning for Creativity and Design](https://nips2017creativity.github.io/)
     - [Art Gallery – NIPS Machine Learning for Creativity and Design](http://nips4creativity.com/)
     - [Machine Learning for Artists](http://ml4a.github.io/ml4a/)
-    - :movie_camera: : [Learning to see: Gloomy Sunday](https://vimeo.com/260612034)
+    !: [Learning to see: Gloomy Sunday](https://vimeo.com/260612034)
 
 ---
 
@@ -84,17 +84,43 @@ https://www.slideshare.net/hironojumpei/ai-129527593)
 
 GANなどの深層生成モデルの紹介。各デモムービーをざっと見るだけでも面白いです。
 
-- :movie_camera: [Progressive Growing of GANs for Improved Quality, Stability, and Variation - YouTube](https://www.youtube.com/watch?v=XOxxPcy5Gr4)
-- :movie_camera: [jirou interpolation video - YouTube](https://www.youtube.com/watch?v=Rnj2RLycHA4)
-- :movie_camera: [One Minute Exploration in Crypko Space - YouTube](https://www.youtube.com/watch?v=AXAouosx95Y)
-- :movie_camera: [アイドル自動生成AIを開発 | データグリッド](https://datagrid.co.jp/all/release/33/)
+---
+
+![Progressive Growing of GANs for Improved Quality, Stability, and Variation - YouTube](https://www.youtube.com/watch?v=XOxxPcy5Gr4)
+
+---
+
+![jirou interpolation video - YouTube](https://www.youtube.com/watch?v=Rnj2RLycHA4)
+
+---
+
+![One Minute Exploration in Crypko Space - YouTube](https://www.youtube.com/watch?v=AXAouosx95Y)
+
+---
+
+![アイドル自動生成AIを開発 | データグリッド](https://datagrid.co.jp/all/release/33/)
+
+---
+
 - :pencil:  [BigGAN: A New State of the Art in Image Synthesis – SyncedReview – Medium](https://medium.com/syncedreview/biggan-a-new-state-of-the-art-in-image-synthesis-cf2ec5694024)
 - :pencil: [シモセラ エドガー　敵対的データ拡張による自動線画化](https://esslab.jp/~ess/ja/research/sketch_master/)
 - [PaintsChainer -線画自動着色サービス-](https://paintschainer.preferred.tech/index_ja.html)
-- :movie_camera: [（自動彩色Colorful Image Colorization） ローマの休日トレーラー Roman Holiday Trailer (Zhang) - YouTube](https://www.youtube.com/watch?v=KatrQr8pSmY)
+
+---
+
+![（自動彩色Colorful Image Colorization） ローマの休日トレーラー Roman Holiday Trailer (Zhang) - YouTube](https://www.youtube.com/watch?v=KatrQr8pSmY)
+
+---
+
 - :newspaper: [“少ないデータ”で高精度AIを実現したRidge-i--白黒映像をカラーに、ゴミ焼却炉は自動化 - CNET Japan](https://japan.cnet.com/article/35121159/)
-- :movie_camera: [Research at NVIDIA: Transforming Standard Video Into Slow Motion with AI - YouTube](https://www.youtube.com/watch?v=MjViy6kyiqs)
-- :movie_camera: [SRGAN Super-resolved video - YouTube](https://www.youtube.com/watch?v=8OY8HFGsbKM)
+
+---
+
+![Research at NVIDIA: Transforming Standard Video Into Slow Motion with AI - YouTube](https://www.youtube.com/watch?v=MjViy6kyiqs)
+
+---
+
+![SRGAN Super-resolved video - YouTube](https://www.youtube.com/watch?v=8OY8HFGsbKM)
 
 ---
 
@@ -103,10 +129,30 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 深層生成モデルの持つ可能性、リスク、解釈性について。こちらも前半のビデオが興味深いです。後半に解釈性の説明があります。
 
-- :movie_camera: [CycleGAN Face-off 直播換臉 - YouTube](https://www.youtube.com/watch?v=Fea4kZq0oFQ)
+---
+
+@css[title-top-right](CycleGAN Face-off 直播換臉)
+
+![CycleGAN Face-off 直播換臉 - YouTube](https://www.youtube.com/watch?v=Fea4kZq0oFQ)
+
+---
+
 - :newspaper: [Here Come the Fake Videos, Too - The New York Times](https://www.nytimes.com/2018/03/04/technology/fake-videos-deepfakes.html)
-- :movie_camera: [Deep Video Portraits - SIGGRAPH 2018 - YouTube](https://www.youtube.com/watch?v=qc5P2bvfl44)
-- :movie_camera: [FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces - YouTube](https://www.youtube.com/watch?v=Tle7YaPkO_k)
+
+---
+
+@css[title-top-right](FaceForensics)
+
+![Deep Video Portraits - SIGGRAPH 2018 - YouTube](https://www.youtube.com/watch?v=qc5P2bvfl44)
+
+---
+
+@css[title-top-right](FaceForensics)
+
+![FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces - YouTube](https://www.youtube.com/watch?v=Tle7YaPkO_k)
+
+---
+
 - [NIPS 2017 Competition Track](https://nips.cc/Conferences/2017/CompetitionTrack)
 - [NIPS 2018 Competition Track](https://nips.cc/Conferences/2018/CompetitionTrack)
 - [NIPS’17 Adversarial Learning Competition に参戦しました | Preferred Research](https://research.preferred.jp/2018/04/nips17-adversarial-learning-competition/)
@@ -138,11 +184,27 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 - :newspaper: [Googleアシスタントが音声通話で予約を取ってくれる――マンハッタンのレストランでDuplexのデモに参加してきた | TechCrunch Japan](https://jp.techcrunch.com/2018/06/28/2018-06-27-a-closer-look-at-google-duplex/)
 - :pencil: [A Neural Parametric Singing Synthesizer](https://mtg.github.io/singing-synthesis-demos/)
-- :movie_camera: [A Universal Music Translation Network - YouTube](https://www.youtube.com/watch?v=vdxCqNWTpUs)
-- [Magenta](https://magenta.tensorflow.org/)
+
+---
+
+@css[title-top-right](A Universal Music Translation Network)
+
+![A Universal Music Translation Network - YouTube](https://www.youtube.com/watch?v=vdxCqNWTpUs)
+
+---
+
+- - [Magenta](https://magenta.tensorflow.org/)
 - [AI Experiments | Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 - [ISMIR 2018](http://ismir2018.ircam.fr/)
-- :movie_camera: [20180925_A_ismir-2018-live-stream_IML4M+SessionC - YouTube](https://www.youtube.com/watch?v=Nc6cSXgJzgs)
+
+
+---
+
+![20180925_A_ismir-2018-live-stream_IML4M+SessionC - YouTube](https://www.youtube.com/watch?v=Nc6cSXgJzgs)
+
+
+---
+
 - :octocat: [ybayle/awesome-deep-learning-music: List of articles related to deep learning applied to music](https://github.com/ybayle/awesome-deep-learning-music)
 - :pencil: :movie_camera: [The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
 - :pencil: :movie_camera: [Gierad Laput | Synthetic Sensors](http://www.gierad.com/projects/supersensor/)
@@ -168,7 +230,11 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 - :newspaper: [東大と日立の研究者、素材に触れた時の触振動を画像からそれっぽく生成し、効率的な触感デザインを可能とする手法「TactGAN」を発表 | Seamless](https://shiropen.com/seamless/tactgan)
 - :octocat: [timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
-- :movie_camera: [Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - YouTube](https://www.youtube.com/watch?v=jgb2eNNlPq4)
+
+
+---
+
+![Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - YouTube](https://www.youtube.com/watch?v=jgb2eNNlPq4)
 
 ---
 
@@ -250,14 +316,22 @@ Atariゲーム、碁、最近では多人数プレイのリアルタイム戦略
 - :books: [深層学習教科書 ディープラーニング G検定(ジェネラリスト) 公式テキスト](https://amzn.to/2JlYeYj)
 - :books: [機械学習スタートアップシリーズ Pythonで学ぶ強化学習 入門から実践まで](https://amzn.to/2LrDn8M)
 - :books: [機械学習スタートアップシリーズ ベイズ推論による機械学習入門](https://amzn.to/2JiAp3H)
-- :movie_camera: [予備校のノリで学ぶ「大学の数学・物理」 - YouTube](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
-- :movie_camera: [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
-- :movie_camera: [How to Win a Data Science Competition: Learn from Top Kagglers | Coursera](https://www.coursera.org/learn/competitive-data-science)
-- :movie_camera: [Stanford Artificial Intelligence Resource Hub](http://onlinehub.stanford.edu/)
-	- :movie_camera: [CS224n: Natural Language Processing with Deep Learning](http://onlinehub.stanford.edu/cs224)
-	- :movie_camera: [CS230: Deep Learning](http://onlinehub.stanford.edu/cs230)
-	- :movie_camera: [CS234: Reinforcement Learning](http://onlinehub.stanford.edu/cs234)
-- :movie_camera: [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+
+---
+
+![予備校のノリで学ぶ「大学の数学・物理」 - YouTube](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
+
+
+---
+
+![Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
+![How to Win a Data Science Competition: Learn from Top Kagglers | Coursera](https://www.coursera.org/learn/competitive-data-science)
+![Stanford Artificial Intelligence Resource Hub](http://onlinehub.stanford.edu/)
+	![CS224n: Natural Language Processing with Deep Learning](http://onlinehub.stanford.edu/cs224)
+	![CS230: Deep Learning](http://onlinehub.stanford.edu/cs230)
+	![CS234: Reinforcement Learning](http://onlinehub.stanford.edu/cs234)
+![Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 ---
 
