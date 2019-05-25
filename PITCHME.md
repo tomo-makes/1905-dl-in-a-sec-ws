@@ -72,7 +72,7 @@ https://www.slideshare.net/hironojumpei/ai-129527593)
 一般物体認識・特定物体認識の概要、現状紹介。
 
 - ImageNet画像認識コンペでの深層学習の躍進 [ImageNet Large Scale Visual Recognition Competition 2012 (ILSVRC2012)](http://www.image-net.org/challenges/LSVRC/2012/results.html)
-- 物体検出の現状 :movie_camera: [YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception - YouTube](https://www.youtube.com/watch?v=s8Ui_kV9dhw)
+- 物体検出の現状 :movie_camera: [YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception - YouTube](https://www.youtube.com/embed/s8Ui_kV9dhw)
 - 骨格検出を使った楽しいデモ [AI Experiments: Move Mirror](https://experiments.withgoogle.com/collection/ai/move-mirror/view)
 - 骨格検出 :pencil: :movie_camera: [DensePose](http://densepose.org/)
 - 特定物体認識 [Google Landmark Recognition Challenge | Kaggle](https://www.kaggle.com/c/landmark-recognition-challenge/)
@@ -86,15 +86,15 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 ---
 
-![Progressive Growing of GANs for Improved Quality, Stability, and Variation - YouTube](https://www.youtube.com/watch?v=XOxxPcy5Gr4)
+![Progressive Growing of GANs for Improved Quality, Stability, and Variation - YouTube](https://www.youtube.com/embed/XOxxPcy5Gr4)
 
 ---
 
-![jirou interpolation video - YouTube](https://www.youtube.com/watch?v=Rnj2RLycHA4)
+![jirou interpolation video - YouTube](https://www.youtube.com/embed/Rnj2RLycHA4)
 
 ---
 
-![One Minute Exploration in Crypko Space - YouTube](https://www.youtube.com/watch?v=AXAouosx95Y)
+![One Minute Exploration in Crypko Space - YouTube](https://www.youtube.com/embed/AXAouosx95Y)
 
 ---
 
@@ -108,7 +108,7 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 ---
 
-![（自動彩色Colorful Image Colorization） ローマの休日トレーラー Roman Holiday Trailer (Zhang) - YouTube](https://www.youtube.com/watch?v=KatrQr8pSmY)
+![（自動彩色Colorful Image Colorization） ローマの休日トレーラー Roman Holiday Trailer (Zhang) - YouTube](https://www.youtube.com/embed/KatrQr8pSmY)
 
 ---
 
@@ -116,11 +116,11 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 ---
 
-![Research at NVIDIA: Transforming Standard Video Into Slow Motion with AI - YouTube](https://www.youtube.com/watch?v=MjViy6kyiqs)
+![Research at NVIDIA: Transforming Standard Video Into Slow Motion with AI - YouTube](https://www.youtube.com/embed/MjViy6kyiqs)
 
 ---
 
-![SRGAN Super-resolved video - YouTube](https://www.youtube.com/watch?v=8OY8HFGsbKM)
+![SRGAN Super-resolved video - YouTube](https://www.youtube.com/embed/8OY8HFGsbKM)
 
 ---
 
@@ -133,7 +133,7 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 @css[title-top-right](CycleGAN Face-off 直播換臉)
 
-![CycleGAN Face-off 直播換臉 - YouTube](https://www.youtube.com/watch?v=Fea4kZq0oFQ)
+![CycleGAN Face-off 直播換臉 - YouTube](https://www.youtube.com/embed/Fea4kZq0oFQ)
 
 ---
 
@@ -143,13 +143,13 @@ GANなどの深層生成モデルの紹介。各デモムービーをざっと�
 
 @css[title-top-right](FaceForensics)
 
-![Deep Video Portraits - SIGGRAPH 2018 - YouTube](https://www.youtube.com/watch?v=qc5P2bvfl44)
+![Deep Video Portraits - SIGGRAPH 2018 - YouTube](https://www.youtube.com/embed/qc5P2bvfl44)
 
 ---
 
 @css[title-top-right](FaceForensics)
 
-![FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces - YouTube](https://www.youtube.com/watch?v=Tle7YaPkO_k)
+![FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces - YouTube](https://www.youtube.com/embed/Tle7YaPkO_k)
 
 ---
 
@@ -189,7 +189,7 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 @css[title-top-right](A Universal Music Translation Network)
 
-![A Universal Music Translation Network - YouTube](https://www.youtube.com/watch?v=vdxCqNWTpUs)
+![A Universal Music Translation Network - YouTube](https://www.youtube.com/embed/vdxCqNWTpUs)
 
 ---
 
@@ -200,7 +200,7 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 ---
 
-![20180925_A_ismir-2018-live-stream_IML4M+SessionC - YouTube](https://www.youtube.com/watch?v=Nc6cSXgJzgs)
+![20180925_A_ismir-2018-live-stream_IML4M+SessionC - YouTube](https://www.youtube.com/embed/Nc6cSXgJzgs)
 
 
 ---
@@ -234,7 +234,7 @@ and Their Implications](https://openai.com/blog/better-language-models/)
 
 ---
 
-![Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - YouTube](https://www.youtube.com/watch?v=jgb2eNNlPq4)
+![Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - YouTube](https://www.youtube.com/embed/jgb2eNNlPq4)
 
 ---
 
