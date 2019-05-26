@@ -80,7 +80,7 @@ McKinseyのAI事例・考察レポート
 
 #### Learning to see: Gloomy Sunday
 
-![Learning to see: Gloomy Sunday](https://vimeo.com/260612034)
+![Learning to see: Gloomy Sunday](https://player.vimeo.com/video/260612034)
 
 ---
 
